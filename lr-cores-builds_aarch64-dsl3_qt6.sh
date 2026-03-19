@@ -28,7 +28,7 @@ qt6-l10n-tools qt6-shader-tools-dev libqt6svg6-dev
 
 # 3. CLONAR LIBRETRO-SUPER
 if [ ! -d "libretro-super" ]; then
-    git clone --depth 1 https://github.com
+    git clone --depth 1 https://github.com/libretro/libretro-super
 fi
 cd libretro-super
 
