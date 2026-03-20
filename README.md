@@ -3,7 +3,7 @@ Script para descargar lista de cores con libretro-super,la lista se edita dentro
 
 ## El nombre para descargar los cores se encuentran dentro de el directorio libretro-super/build-config.sh ,pueden verlos en este fichero o en el github de libretro-super.
 
-
+"Solo si te falla el script sigue estos pasos"
 Para poder descargar bien los cores en unos pocos repositorios tenemos q editar el script ,buscar esta linea 
 
 SHALLOW_CLONE=1 ./libretro-fetch.sh $CORES
