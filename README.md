@@ -8,7 +8,9 @@ Script para descargar lista de cores con libretro-super,la lista se edita dentro
 Para poder descargar bien los cores en unos pocos repositorios tenemos q editar el script ,buscar esta linea 
 
 SHALLOW_CLONE=1 ./libretro-fetch.sh $CORES
+
 eso evita que se descarge codigo basura mayormente!!!
+
 y dejarlo asi.
 
 #SHALLOW_CLONE=1
