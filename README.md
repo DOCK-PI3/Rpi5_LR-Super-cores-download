@@ -1,8 +1,7 @@
 # Rpi5_LR-Super-cores-download
 Script para descargar lista de cores con libretro-super,la lista se edita dentro del script
 
-## El nombre para descargar los cores se encuentran dentro de el directorio libretro-super/build-config.sh ,pueden verlos en
-este fichero o en el github de libretro-super.
+## El nombre para descargar los cores se encuentran dentro de el directorio libretro-super/build-config.sh ,pueden verlos en este fichero o en el github de libretro-super.
 
 
 Para poder descargar bien los cores en unos pocos repositorios tenemos q editar el script ,buscar esta linea 
